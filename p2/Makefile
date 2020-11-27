@@ -5,10 +5,10 @@ TARGET=program
 all: $(TARGET)
 
 pagerank: pagerank.c pagerank.h
-	$(CC) $(CFLAGS) $^ -o $@ -lpthread -lm
+	$(CC) $(CFLAGS) $^ -o $@ -fopenmp -lm
 
 test: test.c
-	$(CC) $(CFLAGS) $^ -o $@ -lpthread -lcmocka
+	$(CC) $(CFLAGS) $^ -o $@ -fopenmp -lcmocka
 
 clean:
 	rm -f *.o

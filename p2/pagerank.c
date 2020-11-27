@@ -29,7 +29,7 @@ double calculate_sum_of_in_links(list* plist, double** scores, int page_index){
   double sum = 0;// return value
   current = page->inlinks->head;
   while(current != NULL){
-    sum += scores[current->page->index][0] / current->page->noutlinks;
+    sum += (scores[current->page->index][0] / current->page->noutlinks);
     if(current == page->inlinks->tail){
       break;
     }
@@ -47,6 +47,7 @@ void pagerank(list* plist, int ncores, int npages, int nedges, double dampener) 
         - implement any other useful data structures
     */
 
+    int num_thread = 1;
     // initialise matrix to store scores
     int length = plist->length;
     double** scores = malloc(sizeof(double*) * length);
@@ -57,8 +58,10 @@ void pagerank(list* plist, int ncores, int npages, int nedges, double dampener) 
     // initialise variable to store vector norm
     double vn = 1.0;
     // iterate until vn >= EPSILON
+    #pragma omp parallel num_threads(num_thread)
     while (vn > EPSILON){
       vn = 0.0;
+      #pragma omp for
       for (int i=0; i<length; i++){
         double re = calculate_sum_of_in_links(plist, scores, i);
         scores[i][1] = ((1 - dampener) / length) + dampener * (re);
