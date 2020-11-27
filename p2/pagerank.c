@@ -2,7 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <pthread.h>
+#include <omp.h>
+#include <time.h>
 
 #include "pagerank.h"
 
@@ -47,7 +48,9 @@ void pagerank(list* plist, int ncores, int npages, int nedges, double dampener) 
         - implement any other useful data structures
     */
 
-    int num_thread = 1;
+    int num_thread = 16;
+    clock_t start, finish;
+    start = clock();
     // initialise matrix to store scores
     int length = plist->length;
     double** scores = malloc(sizeof(double*) * length);
@@ -61,7 +64,7 @@ void pagerank(list* plist, int ncores, int npages, int nedges, double dampener) 
     #pragma omp parallel num_threads(num_thread)
     while (vn > EPSILON){
       vn = 0.0;
-      #pragma omp for
+      #pragma omp nowait
       for (int i=0; i<length; i++){
         double re = calculate_sum_of_in_links(plist, scores, i);
         scores[i][1] = ((1 - dampener) / length) + dampener * (re);
@@ -83,6 +86,11 @@ void pagerank(list* plist, int ncores, int npages, int nedges, double dampener) 
       free(scores[i]);
     }
     free(scores);
+    // write execution time to file
+    finish = clock();
+    FILE* f = fopen("output.txt", "a");
+    fprintf(f, "%d %lf\n", num_thread, (double)(finish - start) / CLOCKS_PER_SEC);
+    fclose(f);
 }
 
 /*
