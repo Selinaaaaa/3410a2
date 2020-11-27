@@ -1,0 +1,169 @@
+3ds 12624  2781.448047:   10000000 cpu-clock:pppH: 
+	    556ed3fac446 main+0x2bd (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.473013:   10000000 cpu-clock:pppH: 
+	    556ed3fac31c main+0x193 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.499693:   10000000 cpu-clock:pppH: 
+	    556ed3fac419 main+0x290 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.523162:   10000000 cpu-clock:pppH: 
+	    556ed3fac31c main+0x193 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.540512:   10000000 cpu-clock:pppH: 
+	    556ed3fac462 main+0x2d9 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.571958:   10000000 cpu-clock:pppH: 
+	    556ed3fac3ed main+0x264 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.593697:   10000000 cpu-clock:pppH: 
+	    556ed3fac391 main+0x208 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.613857:   10000000 cpu-clock:pppH: 
+	    556ed3fac2d8 main+0x14f (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.641619:   10000000 cpu-clock:pppH: 
+	    556ed3fac38e main+0x205 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.664942:   10000000 cpu-clock:pppH: 
+	    556ed3fac421 main+0x298 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.687053:   10000000 cpu-clock:pppH: 
+	    556ed3fac3c6 main+0x23d (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.707145:   10000000 cpu-clock:pppH: 
+	    556ed3fac350 main+0x1c7 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.732632:   10000000 cpu-clock:pppH: 
+	    556ed3fac36f main+0x1e6 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.755069:   10000000 cpu-clock:pppH: 
+	    556ed3fac3fd main+0x274 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.780035:   10000000 cpu-clock:pppH: 
+	    556ed3fac32e main+0x1a5 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.801696:   10000000 cpu-clock:pppH: 
+	    556ed3fac394 main+0x20b (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.823895:   10000000 cpu-clock:pppH: 
+	    556ed3fac2f4 main+0x16b (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.846617:   10000000 cpu-clock:pppH: 
+	    556ed3fac46b main+0x2e2 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.874145:   10000000 cpu-clock:pppH: 
+	    556ed3fac32e main+0x1a5 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.895978:   10000000 cpu-clock:pppH: 
+	    556ed3fac33e main+0x1b5 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.919857:   10000000 cpu-clock:pppH: 
+	    556ed3fac33e main+0x1b5 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.934067:   10000000 cpu-clock:pppH: 
+	    556ed3fac32e main+0x1a5 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.958496:   10000000 cpu-clock:pppH: 
+	    556ed3fac2d8 main+0x14f (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2781.977075:   10000000 cpu-clock:pppH: 
+	    556ed3fac421 main+0x298 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.001826:   10000000 cpu-clock:pppH: 
+	    556ed3fac3ed main+0x264 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.021564:   10000000 cpu-clock:pppH: 
+	    556ed3fac3c6 main+0x23d (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.037848:   10000000 cpu-clock:pppH: 
+	    556ed3fac479 main+0x2f0 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.059952:   10000000 cpu-clock:pppH: 
+	    556ed3fac3c6 main+0x23d (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.074272:   10000000 cpu-clock:pppH: 
+	    556ed3fac40f main+0x286 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.102316:   10000000 cpu-clock:pppH: 
+	    556ed3fac36c main+0x1e3 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.121055:   10000000 cpu-clock:pppH: 
+	    556ed3fac35a main+0x1d1 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.142024:   10000000 cpu-clock:pppH: 
+	    556ed3fac3ed main+0x264 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.160990:   10000000 cpu-clock:pppH: 
+	    556ed3fac33a main+0x1b1 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.185401:   10000000 cpu-clock:pppH: 
+	    556ed3fac344 main+0x1bb (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.208422:   10000000 cpu-clock:pppH: 
+	    556ed3fac37c main+0x1f3 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.224021:   10000000 cpu-clock:pppH: 
+	    556ed3fac2e2 main+0x159 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.247244:   10000000 cpu-clock:pppH: 
+	    556ed3fac2f4 main+0x16b (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.266955:   10000000 cpu-clock:pppH: 
+	    556ed3fac42b main+0x2a2 (/home/selina/Desktop/3410a2/p1/3ds)
+	    7f282b3f80b3 __libc_start_main+0xf3 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+
+3ds 12624  2782.289796:   10000000 cpu-clock:pppH: 
+	ffffffff9e4d3d9b [unknown] ([kernel.kallsyms])
+	ffffffff9eed46fb [unknown] ([kernel.kallsyms])
+	ffffffff9eed4e08 [unknown] ([kernel.kallsyms])
+	ffffffff9eed4e42 [unknown] ([kernel.kallsyms])
+	ffffffff9eed6f93 [unknown] ([kernel.kallsyms])
+	ffffffff9ea8912a [unknown] ([kernel.kallsyms])
+	ffffffff9ea87245 [unknown] ([kernel.kallsyms])
+	ffffffff9e6dbb5b [unknown] ([kernel.kallsyms])
+	ffffffff9e6dc869 [unknown] ([kernel.kallsyms])
+	ffffffff9e6dedf7 [unknown] ([kernel.kallsyms])
+	ffffffff9e6dee8a [unknown] ([kernel.kallsyms])
+	ffffffff9e4044c7 [unknown] ([kernel.kallsyms])
+	ffffffff9f00008c [unknown] ([kernel.kallsyms])
+	    7f282b4e21e7 __GI___libc_write+0x17 (/usr/lib/x86_64-linux-gnu/libc-2.31.so)
+	302e30322030302e [unknown] ([unknown])
+

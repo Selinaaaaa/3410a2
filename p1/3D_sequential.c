@@ -1,8 +1,12 @@
 #include <stdio.h>
+#include <time.h>
 #define N 100
 #define T 5000
 
 int main(){
+  int num_thread = 0;
+  clock_t start, finish;
+  start = clock();
   // initialise array h
   float h[N][N][2];
   for (int i=0; i<N; i++){
@@ -33,5 +37,9 @@ int main(){
     }
     printf("\n");
   }
+  finish = clock();
+  FILE* f = fopen("3ds.txt", "a");
+  fprintf(f, "%d %lf\n", num_thread, (double)(finish - start) / CLOCKS_PER_SEC);
+  fclose(f);
   return 0;
 }
